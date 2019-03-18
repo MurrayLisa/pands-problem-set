@@ -1,3 +1,4 @@
+# Solution-1 
 # User needs to enter integer
 number = input("Please enter a positive integer:")
 # Number needs to be converted from string format to number format, and add 1 to inclued the number chosen
