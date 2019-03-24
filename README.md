@@ -3,13 +3,13 @@
 
 Completed by Lisa Murray (Student ID G00245542)
 
-##How to downnload Repository
+## How to downnload Repository
 1. Go to Github and click on pands-problem-set
 2. Click Clone or download
 3. Ensure file type is HTTPS and click Download Zip
 4. Extract file and save in desired location
 
-##Using the Code
+## Using the Code
 Make sure you have Python installed
     Open the CLI (Cmder preferable)
     Type "python" and filename e.g. $ python Solution-1.py
@@ -17,7 +17,7 @@ Make sure you have Python installed
     Review output
 
 
-##Description
+## Description
 
 This project displays the solutions 1-10 for the Problem set 2019 issued as part of the Programming and Scripting module at Galway-Mayo Institue of Technology in semester 1 from a novice programmer.
 
@@ -33,7 +33,7 @@ The questions are as follows
 9. Write a program that reads in a text ﬁle and outputs every second line. Theprogram should take the ﬁlename from an argument on the command line
 10. Write a program that displays a plot of the functions x, x2 and 2x in the range 
 
-##References
+## References
 1. https://docs.python.org/3/tutorial/index.html
 2. https://www.w3schools.com/python/
 3. https://stackoverflow.com/questions/tagged/python
