@@ -1,10 +1,13 @@
-# The number to calculate the square root of:
-sqroot = float (input("Please enter a positive number: "))
-estimate = 6.0
+#Solution-7 Lisa Murray
 
-while abs((estimate *estimate) - sqroot) > 0.1:
-    estimate -=((estimate * estimate) - sqroot) / (2* estimate)
+# User needs to input number that they want to calculate the square root of:
+num = float(input("Please enter a positive number: "))
 
-ans = str(round(estimate, 1))
+#square root is found by raising the number to the power of a half
+sqroot = num**(1/2)
 
-print (f"The square root of {sqroot} is approx. {ans}.")
+# round the square root number to one decimal place and cast as a string
+ans = str(round(sqroot, 1))
+
+#print the answer in a formatted sentence
+print (f"The square root of {num} is approx. {ans}.")
