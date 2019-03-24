@@ -3,7 +3,7 @@
 
 Completed by Lisa Murray (Student ID G00245542)
 
-## How to downnload Repository
+## How to download Repository
 1. Go to Github and click on pands-problem-set
 2. Click Clone or download
 3. Ensure file type is HTTPS and click Download Zip
